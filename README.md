@@ -1,0 +1,1 @@
+1) In bubble sort the time complexity is T(n)=O(n^2)  ( Worst case)., we create an unsorted  array., and use 2 for loops(nested loops) ., 1st loop  :: to push the large element to last index., 2nd for loop:: to make multiple comparisions and  swap operations 
