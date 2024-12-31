@@ -1,1 +1,3 @@
-1) In bubble sort the time complexity is T(n)=O(n^2)  ( Worst case)., we create an unsorted  array., and use 2 for loops(nested loops) ., 1st loop  :: to push the large element to last index., 2nd for loop:: to make multiple comparisions and  swap operations 
+1) In bubble sort the time complexity is T(n)=O(n^2)  ( Worst case)., we create an unsorted  array., and use 2 for loops(nested loops) ., 1st loop  :: to push the large element to last index., 2nd for loop:: to make multiple comparisions and  swap operations  bwn two succesive adjacent elements!! (Here we sort elements from last index!!!)
+
+2) Selection sort:: the time complexity is T(n)=O(n^2) ., here also we create an array function to create an array(unsorted array)., In main method we insert array elements and call the function.., WE use 2 for loops ., 1st for loop : it  intially fixes the first element of first index as smaller and stored in var 
